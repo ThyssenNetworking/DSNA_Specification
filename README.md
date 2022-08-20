@@ -2,7 +2,7 @@
 Specification Of Thyssen DSNA
 <br>
 <br>
-Thyssen DSNA (Distributed System Network Architecture
+Thyssen DSNA (Distributed System Network Architecture)
 Thyssen DSNA is a set of written protocols to make a open, <br>free and secure decentralised network for no restricted access for all
 <br>
 <br>
