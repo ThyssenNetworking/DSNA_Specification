@@ -1,12 +1,10 @@
-# DSNA_Specification
-Specification Of Thyssen DSNA
+# Software Implementation (alpha)
+spec implementation of Thyssen DSNA
 <br>
 <br>
 Thyssen DSNA (Distributed System Network Architecture)
-is a set of written protocols to make a open, <br>free and secure decentralised network for no restricted access for all
-<br>
-<br>
-Current Latest Revision:
+software implementation 
+Current Latest Revision: null
 <br>
 Specification Revision v0.0.2-alpha
 <br>
